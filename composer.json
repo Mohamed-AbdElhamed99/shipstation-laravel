@@ -1,13 +1,13 @@
 {
-    "name": "mohamed/shipstation-laravel",
+    "name": "mohamed-abdelhamed99/shipstation-laravel",
     "description": "Laravel-first PHP client for the ShipStation API v2 (rates, labels, tracking, address validation, webhooks).",
     "type": "library",
     "license": "MIT",
     "keywords": ["laravel", "shipstation", "shipengine", "shipping", "labels", "tracking"],
     "authors": [
         {
-            "name": "Mohamed",
-            "email": "you@example.com"
+            "name": "Mohamed Abdelhamed",
+            "email": "mohamedabdelhamed2e@gmail.com"
         }
     ],
     "require": {
