@@ -3,7 +3,14 @@
     "description": "Laravel-first PHP client for the ShipStation API v2 (rates, labels, tracking, address validation, webhooks).",
     "type": "library",
     "license": "MIT",
-    "keywords": ["laravel", "shipstation", "shipengine", "shipping", "labels", "tracking"],
+    "keywords": [
+        "laravel",
+        "shipstation",
+        "shipengine",
+        "shipping",
+        "labels",
+        "tracking"
+    ],
     "authors": [
         {
             "name": "Mohamed Abdelhamed",
@@ -13,14 +20,14 @@
     "require": {
         "php": "^8.5",
         "ext-json": "*",
-        "illuminate/contracts": "^10.0|^11.0|^12.0",
-        "illuminate/http": "^10.0|^11.0|^12.0",
-        "illuminate/support": "^10.0|^11.0|^12.0"
+        "illuminate/contracts": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/http": "^10.0|^11.0|^12.0|^13.0",
+        "illuminate/support": "^10.0|^11.0|^12.0|^13.0"
     },
     "require-dev": {
-        "orchestra/testbench": "^8.0|^9.0|^10.0",
-        "pestphp/pest": "^2.0|^3.0",
-        "pestphp/pest-plugin-laravel": "^2.0|^3.0"
+        "orchestra/testbench": "^8.0|^9.0|^10.0|^11.0",
+        "pestphp/pest": "^2.0|^3.0|^4.0",
+        "pestphp/pest-plugin-laravel": "^2.0|^3.0|^4.0"
     },
     "autoload": {
         "psr-4": {
